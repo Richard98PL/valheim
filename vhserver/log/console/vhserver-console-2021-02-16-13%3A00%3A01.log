@@ -1,0 +1,856 @@
+Preloaded 'libsteam_api.so'
+Initialize engine version: 2019.4.16f1 (e05b6e02d63e)
+[Subsystems] Discovering subsystems at path /home/vhserver/serverfiles/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.088 seconds
+UnloadTime: 1.185523 ms
+02/16/2021 09:00:13: Starting to load scene:start
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't create a Convex Mesh from source mesh "RearBig" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+WARNING: Shader Unsupported: 'Autodesk Interactive' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.478297 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 509)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+Initializing Google Analytics 0.2. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Using mountain distance: 1000
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Render threading mode:SingleThreaded
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Get create world abc123
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Using steam_appid.txt
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Using steam APPID:892970
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CAppInfoCacheReadFromDiskThread took 2 milliseconds to initialize
+CApplicationManagerPopulateThread took 0 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+RecordSteamInterfaceCreation (PID 5448): SteamGameServer012 / GameServer
+RecordSteamInterfaceCreation (PID 5448): SteamUtils009 / Utils
+Setting breakpad minidump AppID = 892970
+RecordSteamInterfaceCreation (PID 5448): SteamGameServer012 / GameServer
+RecordSteamInterfaceCreation (PID 5448): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 5448): SteamNetworking005 / Networking
+RecordSteamInterfaceCreation (PID 5448): SteamGameServerStats001 / GameServerStats
+RecordSteamInterfaceCreation (PID 5448): STEAMHTTP_INTERFACE_VERSION002 / HTTP
+RecordSteamInterfaceCreation (PID 5448): STEAMINVENTORY_INTERFACE_V002 / Inventory
+RecordSteamInterfaceCreation (PID 5448): STEAMUGC_INTERFACE_VERSION010 / UGC
+RecordSteamInterfaceCreation (PID 5448): STEAMAPPS_INTERFACE_VERSION008 / Apps
+02/16/2021 09:14:54: Server ID 90071992547409920
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Steam game server initialized
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Missing audio clip in music respawn
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:54: Builder started
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:56: Loaded localization English
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:56: Game server connected
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 85931.
+Total: 74.253002 ms (FindLiveObjects: 5.417726 ms CreateObjectMapping: 11.853488 ms MarkObjects: 56.216841 ms  DeleteObjects: 0.760236 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.875397 ms
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+02/16/2021 09:14:57: Zonesystem Awake 16152610
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: DungeonDB Awake 16152610
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: ZSteamSocket  Registering global callbacks
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Registering lobby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Initializing world generator seed:nepTbzQlS5 ( -1441259986 )   menu:False  worldgen version:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Using mountain distance: 1000
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Found 596 mountain points
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Remaining mountains:81
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Calc time 34.135 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:57: Found 8216 lake points
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:59: Remaining lakes:115
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:59: Calc time 2707.945 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:14:59: Rivers:157
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:00: River buckets 15631
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:00: River render time 463.056 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:00: River Calc time 483.171 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: River buckets 24190
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: River render time 706.338 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: Placed 1878 streams
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: Stream Calc time 1694.791 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: Load world abc123
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:01: Loading 175572 zdos , my id 884947581 data version:26
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Loaded 100000 dead zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removed 0 OLD generated ZDOS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Loaded 7132 locations
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Build settings:10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing -1233507428
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 1883198027
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 868418350
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing -535269195
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 1547815568
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing -359949137
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 319464002
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 1225882809
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Removing 404029124
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:03: Audioman already exist, destroying self
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 490 unused Assets to reduce memory usage. Loaded Objects now: 86244.
+Total: 343.432569 ms (FindLiveObjects: 6.818094 ms CreateObjectMapping: 15.261813 ms MarkObjects: 315.947037 ms  DeleteObjects: 5.399262 ms)
+
+02/16/2021 09:15:09: Zonesystem Start 16152610
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:15:09: DungeonDB Start 16152610
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Warning: failed to init SDL thread priority manager: SDL not found
+02/16/2021 09:22:27: Got session request from 76561197991367904
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:22:29: Got handshake from client 76561197991367904
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:22:36: VERSION check their:0.143.5  mine:0.143.5
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:22:36: Server: New peer connected,sending global keys
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:22:55: Got character ZDOID from Spacey : 1298219974:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:25:10:  Connections 1 ZDOS:175582  sent:0 recv:338
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 702.390189 ms (FindLiveObjects: 102.152235 ms CreateObjectMapping: 31.634153 ms MarkObjects: 567.614379 ms  DeleteObjects: 0.984062 ms)
+
+02/16/2021 09:35:10:  Connections 1 ZDOS:175580  sent:0 recv:281
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 750.475934 ms (FindLiveObjects: 137.855263 ms CreateObjectMapping: 36.788176 ms MarkObjects: 574.612835 ms  DeleteObjects: 1.213231 ms)
+
+02/16/2021 09:45:11: clone 416
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:45:11:  Connections 1 ZDOS:175582  sent:0 recv:290
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 884.377553 ms (FindLiveObjects: 199.653307 ms CreateObjectMapping: 57.578863 ms MarkObjects: 621.421084 ms  DeleteObjects: 5.718985 ms)
+
+02/16/2021 09:45:13: Saved 175575 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:45:13: World saved ( 2059.839ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:53:23: Time 159997.179779898, day:88    nextm:160470.000010729  skipspeed:39.4016859025384
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 09:55:11:  Connections 1 ZDOS:175596  sent:0 recv:258
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 715.335171 ms (FindLiveObjects: 120.527624 ms CreateObjectMapping: 32.709023 ms MarkObjects: 561.064837 ms  DeleteObjects: 1.028125 ms)
+
+02/16/2021 10:05:12:  Connections 1 ZDOS:175591  sent:0 recv:253
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 708.576584 ms (FindLiveObjects: 139.357882 ms CreateObjectMapping: 37.529431 ms MarkObjects: 530.757668 ms  DeleteObjects: 0.926166 ms)
+
+02/16/2021 10:15:12:  Connections 1 ZDOS:175666  sent:0 recv:233
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 709.531690 ms (FindLiveObjects: 112.488195 ms CreateObjectMapping: 33.529106 ms MarkObjects: 562.433255 ms  DeleteObjects: 1.075235 ms)
+
+02/16/2021 10:15:13: clone 412
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:15:14: Saved 175657 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:15:14: World saved ( 1381.643ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:17:22: Time 161896.279978849, day:89    nextm:162270.000010729  skipspeed:31.1433359899869
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:25:12:  Connections 1 ZDOS:175621  sent:0 recv:281
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 704.937945 ms (FindLiveObjects: 105.756555 ms CreateObjectMapping: 37.658360 ms MarkObjects: 560.529700 ms  DeleteObjects: 0.988194 ms)
+
+02/16/2021 10:35:13:  Connections 1 ZDOS:175627  sent:0 recv:301
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 711.510285 ms (FindLiveObjects: 115.453939 ms CreateObjectMapping: 29.760221 ms MarkObjects: 565.359127 ms  DeleteObjects: 0.932055 ms)
+
+02/16/2021 10:44:21: Time 163876.359974824, day:90    nextm:164070.000010729  skipspeed:16.1366696587453
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:13:  Connections 1 ZDOS:175639  sent:0 recv:319
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 713.222310 ms (FindLiveObjects: 106.391042 ms CreateObjectMapping: 32.827647 ms MarkObjects: 573.069933 ms  DeleteObjects: 0.928777 ms)
+
+02/16/2021 10:45:14: clone 481
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:16: Saved 175636 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:16: World saved ( 1609.045ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:34: Got session request from 76561198251994680
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:38: Got handshake from client 76561198251994680
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:40: VERSION check their:0.143.5  mine:0.143.5
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:45:40: Server: New peer connected,sending global keys
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:46:01: Got character ZDOID from Rysiu : -1365298442:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 10:55:14:  Connections 2 ZDOS:175692  sent:775 recv:530
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 645.059631 ms (FindLiveObjects: 93.475457 ms CreateObjectMapping: 30.425515 ms MarkObjects: 520.281841 ms  DeleteObjects: 0.872335 ms)
+
+02/16/2021 11:05:14:  Connections 2 ZDOS:175913  sent:531 recv:553
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 712.174577 ms (FindLiveObjects: 102.286818 ms CreateObjectMapping: 33.184197 ms MarkObjects: 575.518160 ms  DeleteObjects: 1.175712 ms)
+
+02/16/2021 11:05:52: Time 165348.699982148, day:91    nextm:165870.000010729  skipspeed:43.441669048431
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:15:14:  Connections 2 ZDOS:176040  sent:363 recv:359
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 755.003882 ms (FindLiveObjects: 135.006626 ms CreateObjectMapping: 33.698052 ms MarkObjects: 585.220963 ms  DeleteObjects: 1.070799 ms)
+
+02/16/2021 11:15:16: clone 445
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:15:17: Saved 176020 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:15:17: World saved ( 1589.074ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: RPC_Disconnect 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Destroying abandoned non persistent zdo -1365298442:1 owner -1365298442
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Destroying abandoned non persistent zdo -1365298442:7435 owner -1365298442
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Destroying abandoned non persistent zdo -1365298442:6758 owner -1365298442
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Closing socket 76561198251994680
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57:   send queue size:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57:   P2P state, bytes in send queue:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:20:57: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:21:53: Got session request from 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:21:57: Got handshake from client 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:21:59: VERSION check their:0.143.5  mine:0.143.5
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:21:59: Server: New peer connected,sending global keys
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:22:18: Got character ZDOID from Johanegro : 2262633831:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:25:15:  Connections 2 ZDOS:176287  sent:491 recv:507
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 685.608969 ms (FindLiveObjects: 96.689526 ms CreateObjectMapping: 31.243817 ms MarkObjects: 556.753099 ms  DeleteObjects: 0.917693 ms)
+
+02/16/2021 11:35:15:  Connections 2 ZDOS:176493  sent:1 recv:543
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 723.326965 ms (FindLiveObjects: 99.714528 ms CreateObjectMapping: 31.916987 ms MarkObjects: 590.698449 ms  DeleteObjects: 0.990977 ms)
+
+02/16/2021 11:45:16:  Connections 2 ZDOS:176394  sent:19 recv:626
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 751.175155 ms (FindLiveObjects: 131.862569 ms CreateObjectMapping: 44.881047 ms MarkObjects: 573.283717 ms  DeleteObjects: 1.141253 ms)
+
+02/16/2021 11:45:17: clone 420
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:45:18: Saved 176375 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:45:18: World saved ( 1444.346ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 11:55:16:  Connections 2 ZDOS:176397  sent:0 recv:574
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 705.793314 ms (FindLiveObjects: 136.588129 ms CreateObjectMapping: 31.117600 ms MarkObjects: 537.164364 ms  DeleteObjects: 0.917562 ms)
+
+02/16/2021 12:05:17:  Connections 2 ZDOS:176432  sent:553 recv:587
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 717.387636 ms (FindLiveObjects: 126.652434 ms CreateObjectMapping: 31.168160 ms MarkObjects: 558.616334 ms  DeleteObjects: 0.945231 ms)
+
+02/16/2021 12:15:17:  Connections 2 ZDOS:176418  sent:417 recv:404
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 769.230942 ms (FindLiveObjects: 134.693079 ms CreateObjectMapping: 37.680074 ms MarkObjects: 595.893552 ms  DeleteObjects: 0.957732 ms)
+
+02/16/2021 12:15:18: clone 430
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:15:20: Saved 176401 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:15:20: World saved ( 1489.926ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:25:18:  Connections 2 ZDOS:176455  sent:518 recv:520
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 704.059773 ms (FindLiveObjects: 103.302949 ms CreateObjectMapping: 32.097711 ms MarkObjects: 567.475643 ms  DeleteObjects: 1.177935 ms)
+
+02/16/2021 12:34:05: RPC_Disconnect 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:9934 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:8954 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:9776 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:1 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:10677 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:10679 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:10676 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:7987 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:10680 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Destroying abandoned non persistent zdo 2262633831:10510 owner 2262633831
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Closing socket 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05:   send queue size:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05:   P2P state, bytes in send queue:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:34:05: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:18:  Connections 1 ZDOS:176423  sent:1 recv:234
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 701.625767 ms (FindLiveObjects: 101.272850 ms CreateObjectMapping: 35.479657 ms MarkObjects: 563.782267 ms  DeleteObjects: 1.084604 ms)
+
+02/16/2021 12:35:22: RPC_Disconnect 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:22014 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:1 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:22016 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:22013 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:22017 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:21850 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:22015 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:19900 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Destroying abandoned non persistent zdo 1298219974:17712 owner 1298219974
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Closing socket 76561197991367904
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22:   send queue size:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22:   P2P state, bytes in send queue:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:35:22: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:40:35: Possible events:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:45:18:  Connections 0 ZDOS:176412  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 684.903613 ms (FindLiveObjects: 106.698708 ms CreateObjectMapping: 31.423752 ms MarkObjects: 545.810097 ms  DeleteObjects: 0.965074 ms)
+
+02/16/2021 12:45:20: clone 422
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:45:21: Saved 176412 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:45:21: World saved ( 1359.086ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 12:55:19:  Connections 0 ZDOS:176412  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116466.
+Total: 686.839093 ms (FindLiveObjects: 98.622861 ms CreateObjectMapping: 32.387106 ms MarkObjects: 554.794799 ms  DeleteObjects: 1.028477 ms)
+
+^C02/16/2021 13:00:05: Game - OnApplicationQuit
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:05: ZNet Shutdown
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:06: clone 411
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:06: Saved 176412 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:06: World saved ( 768.315ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: Sending disconnect msg
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: Last socket, unregistering callback
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7fc83417a700 -> priority: 1 
+02/16/2021 13:00:07: Steam manager on destroy
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: ZNet OnDestroy
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/16/2021 13:00:07: Net scene destroyed
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+

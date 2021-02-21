@@ -1,0 +1,1419 @@
+Preloaded 'libsteam_api.so'
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+[Subsystems] Discovering subsystems at path /home/vhserver/serverfiles/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.100 seconds
+UnloadTime: 1.335208 ms
+02/21/2021 01:00:15: Starting to load scene:start
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't create a Convex Mesh from source mesh "RearBig" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.534952 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 509)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+02/21/2021 01:15:33: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Using mountain distance: 1000
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Render threading mode:SingleThreaded
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Get create world abc123
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Using steam_appid.txt
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Using steam APPID:892970
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CAppInfoCacheReadFromDiskThread took 1 milliseconds to initialize
+CApplicationManagerPopulateThread took 0 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+RecordSteamInterfaceCreation (PID 25972): SteamGameServer012 / GameServer
+RecordSteamInterfaceCreation (PID 25972): SteamUtils009 / Utils
+Setting breakpad minidump AppID = 892970
+RecordSteamInterfaceCreation (PID 25972): SteamGameServer012 / GameServer
+RecordSteamInterfaceCreation (PID 25972): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 25972): SteamNetworking005 / Networking
+RecordSteamInterfaceCreation (PID 25972): SteamGameServerStats001 / GameServerStats
+RecordSteamInterfaceCreation (PID 25972): STEAMHTTP_INTERFACE_VERSION002 / HTTP
+RecordSteamInterfaceCreation (PID 25972): STEAMINVENTORY_INTERFACE_V002 / Inventory
+RecordSteamInterfaceCreation (PID 25972): STEAMUGC_INTERFACE_VERSION010 / UGC
+RecordSteamInterfaceCreation (PID 25972): STEAMAPPS_INTERFACE_VERSION008 / Apps
+02/21/2021 01:15:33: Server ID 90071992547409920
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Steam game server initialized
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Missing audio clip in music respawn
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:33: Builder started
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Loaded localization English
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Game server connected
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 85935.
+Total: 81.703429 ms (FindLiveObjects: 4.918872 ms CreateObjectMapping: 13.591937 ms MarkObjects: 62.804233 ms  DeleteObjects: 0.383268 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.355077 ms
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+HDR Render Texture not supported, disabling HDR on reflection probe. 
+(Filename:  Line: 277)
+
+02/21/2021 01:15:35: Zonesystem Awake 16355505
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: DungeonDB Awake 16355505
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: ZSteamSocket  Registering global callbacks
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Registering lobby
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Initializing world generator seed:nepTbzQlS5 ( -1441259986 )   menu:False  worldgen version:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Using mountain distance: 1000
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Found 596 mountain points
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Remaining mountains:81
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Calc time 34.869 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:35: Found 8216 lake points
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:38: Remaining lakes:115
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:38: Calc time 2748.268 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:38: Rivers:157
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:39: River buckets 15631
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:39: River render time 426.526 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:39: River Calc time 446.617 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: River buckets 24190
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: River render time 607.794 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: Placed 1878 streams
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: Stream Calc time 1530.206 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: Load world abc123
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:40: Loading 357402 zdos , my id -118370338 data version:26
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:42: Loaded 100000 dead zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:42: Removed 0 OLD generated ZDOS
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:42: Loaded 7132 locations
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:43: Audioman already exist, destroying self
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 490 unused Assets to reduce memory usage. Loaded Objects now: 86248.
+Total: 579.174712 ms (FindLiveObjects: 8.060665 ms CreateObjectMapping: 15.982502 ms MarkObjects: 546.815889 ms  DeleteObjects: 8.309684 ms)
+
+02/21/2021 01:15:48: Zonesystem Start 16355505
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:15:49: DungeonDB Start 16355505
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Warning: failed to init SDL thread priority manager: SDL not found
+02/21/2021 01:25:50:  Connections 0 ZDOS:357402  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 889.354358 ms (FindLiveObjects: 101.081059 ms CreateObjectMapping: 33.003021 ms MarkObjects: 754.272531 ms  DeleteObjects: 0.992517 ms)
+
+02/21/2021 01:26:53: Got session request from 76561198043221849
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:26:57: Got handshake from client 76561198043221849
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:27:12: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:27:12: Server: New peer connected,sending global keys
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:27:39: Got character ZDOID from Uriel : 593982182:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:35:50:  Connections 1 ZDOS:357408  sent:0 recv:322
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 914.459165 ms (FindLiveObjects: 130.433050 ms CreateObjectMapping: 31.941466 ms MarkObjects: 751.124705 ms  DeleteObjects: 0.954510 ms)
+
+02/21/2021 01:35:52: clone 841
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:35:54: Saved 357400 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:35:54: World saved ( 1671.831ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:43:59: Time 305767.959619619, day:169    nextm:306270.000010729  skipspeed:41.836699259157
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:45:51:  Connections 1 ZDOS:357409  sent:0 recv:204
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 891.727614 ms (FindLiveObjects: 103.743009 ms CreateObjectMapping: 32.152988 ms MarkObjects: 754.798949 ms  DeleteObjects: 1.026619 ms)
+
+02/21/2021 01:55:52:  Connections 1 ZDOS:357375  sent:183 recv:231
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 838.390991 ms (FindLiveObjects: 97.723442 ms CreateObjectMapping: 35.784431 ms MarkObjects: 703.852914 ms  DeleteObjects: 1.024697 ms)
+
+02/21/2021 01:55:54: clone 958
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:55:56: Saved 357359 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:55:56: World saved ( 2028.141ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: RPC_Disconnect 
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:5720 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:2746 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:5721 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:5726 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:1 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:5626 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:5710 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:6152 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Destroying abandoned non persistent zdo 593982182:4430 owner 593982182
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Closing socket 76561198043221849
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00:   send queue size:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00:   P2P state, bytes in send queue:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 01:58:00: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:05:53:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 890.246407 ms (FindLiveObjects: 98.560470 ms CreateObjectMapping: 31.580997 ms MarkObjects: 758.419534 ms  DeleteObjects: 1.679568 ms)
+
+02/21/2021 02:15:54:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 950.513581 ms (FindLiveObjects: 97.678169 ms CreateObjectMapping: 33.335758 ms MarkObjects: 818.192356 ms  DeleteObjects: 1.300708 ms)
+
+02/21/2021 02:15:56: clone 1028
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:15:58: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:15:58: World saved ( 1588.417ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:25:55:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 948.479675 ms (FindLiveObjects: 126.582780 ms CreateObjectMapping: 31.511626 ms MarkObjects: 789.317493 ms  DeleteObjects: 1.061750 ms)
+
+02/21/2021 02:35:55:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 932.095102 ms (FindLiveObjects: 126.177083 ms CreateObjectMapping: 31.880281 ms MarkObjects: 773.046870 ms  DeleteObjects: 0.985397 ms)
+
+02/21/2021 02:35:58: clone 900
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:36:00: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:36:00: World saved ( 1578.905ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:45:57:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 898.225694 ms (FindLiveObjects: 125.977950 ms CreateObjectMapping: 31.810451 ms MarkObjects: 739.474516 ms  DeleteObjects: 0.956742 ms)
+
+02/21/2021 02:55:57:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 843.027472 ms (FindLiveObjects: 91.972259 ms CreateObjectMapping: 31.693799 ms MarkObjects: 718.420078 ms  DeleteObjects: 0.935473 ms)
+
+02/21/2021 02:56:00: clone 932
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:56:02: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 02:56:02: World saved ( 1619.129ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:05:58:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 859.145241 ms (FindLiveObjects: 113.815712 ms CreateObjectMapping: 29.864619 ms MarkObjects: 714.511800 ms  DeleteObjects: 0.948197 ms)
+
+02/21/2021 03:15:59:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 953.866288 ms (FindLiveObjects: 125.435032 ms CreateObjectMapping: 38.961898 ms MarkObjects: 787.659183 ms  DeleteObjects: 1.803546 ms)
+
+02/21/2021 03:16:02: clone 921
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:16:03: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:16:04: World saved ( 1593.242ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:26:00:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 884.765074 ms (FindLiveObjects: 95.332640 ms CreateObjectMapping: 31.531832 ms MarkObjects: 756.928077 ms  DeleteObjects: 0.966994 ms)
+
+02/21/2021 03:36:01:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 937.280219 ms (FindLiveObjects: 132.859687 ms CreateObjectMapping: 37.685507 ms MarkObjects: 765.728667 ms  DeleteObjects: 1.000991 ms)
+
+02/21/2021 03:36:04: clone 923
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:36:06: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:36:06: World saved ( 1680.789ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:46:02:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 941.672341 ms (FindLiveObjects: 91.717973 ms CreateObjectMapping: 34.807143 ms MarkObjects: 813.117132 ms  DeleteObjects: 2.023666 ms)
+
+02/21/2021 03:56:02:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 842.972812 ms (FindLiveObjects: 94.646441 ms CreateObjectMapping: 30.666950 ms MarkObjects: 716.723371 ms  DeleteObjects: 0.930640 ms)
+
+02/21/2021 03:56:06: clone 896
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:56:07: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 03:56:07: World saved ( 1619.348ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:06:04:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 971.803642 ms (FindLiveObjects: 122.023365 ms CreateObjectMapping: 31.172446 ms MarkObjects: 817.612785 ms  DeleteObjects: 0.989715 ms)
+
+02/21/2021 04:16:04:  Connections 0 ZDOS:357367  sent:0 recv:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 846.166379 ms (FindLiveObjects: 101.150411 ms CreateObjectMapping: 35.666516 ms MarkObjects: 708.332162 ms  DeleteObjects: 1.011126 ms)
+
+02/21/2021 04:16:08: clone 907
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:16:09: Saved 357367 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:16:10: World saved ( 1717.673ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:20:58: Got session request from 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:21:02: Got handshake from client 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:21:42: VERSION check their:0.145.6  mine:0.145.6
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:21:42: Server: New peer connected,sending global keys
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:22:01: Got character ZDOID from Johanegro : 1680944156:1
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:26:05:  Connections 1 ZDOS:357376  sent:0 recv:288
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 1054.762672 ms (FindLiveObjects: 146.727577 ms CreateObjectMapping: 42.360365 ms MarkObjects: 863.712895 ms  DeleteObjects: 1.955861 ms)
+
+02/21/2021 04:36:06:  Connections 1 ZDOS:357425  sent:0 recv:278
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 1027.166285 ms (FindLiveObjects: 150.462025 ms CreateObjectMapping: 39.607757 ms MarkObjects: 836.162428 ms  DeleteObjects: 0.928726 ms)
+
+02/21/2021 04:36:10: clone 1037
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:36:12: Saved 357422 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:36:12: World saved ( 1778.514ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:43:17: Placed locations in zone 15,3  duration 11.591 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:43:17: Placed locations in zone 15,5  duration 27.455 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Dungeon load time 4.984 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Available rooms:13
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Placed 12 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Placed locations in zone 16,3  duration 425.341 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:07: Placed locations in zone 16,4  duration 3.528 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:08: Placed locations in zone 16,6  duration 0.182 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:35: Placed locations in zone 17,5  duration 6.655 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:36: Placed locations in zone 17,7  duration 13.32 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:36: Placed locations in zone 17,8  duration 12.782 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:36: Placed locations in zone 17,9  duration 18.99 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:44:59: Placed locations in zone 15,0  duration 34.024 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:11: Placed locations in zone 15,-1  duration 8.098 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:21: Placed locations in zone 14,-2  duration 14.319 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:21: Placed locations in zone 15,-2  duration 4.159 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:39: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:39: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:39: Dungeon load time 0.745 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:39: Available rooms:13
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:39: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:40: Placed 9 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:45:40: Placed locations in zone 15,-3  duration 258.089 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:01: Placed locations in zone 12,-4  duration 20.125 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:01: Placed locations in zone 13,-4  duration 21.29 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:01: Placed locations in zone 14,-4  duration 5.875 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:08:  Connections 1 ZDOS:364459  sent:0 recv:153
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 911.257597 ms (FindLiveObjects: 100.411081 ms CreateObjectMapping: 32.393775 ms MarkObjects: 776.666486 ms  DeleteObjects: 1.780830 ms)
+
+02/21/2021 04:46:25: Placed locations in zone 9,-5  duration 17.471 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:25: Placed locations in zone 11,-5  duration 7.241 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Dungeon load time 0.823 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Available rooms:13
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Placed 13 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Force generaeting hmap (768.0, 0.0, -320.0)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:46:26: Placed locations in zone 12,-5  duration 258.954 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:12: Placed locations in zone 17,-1  duration 0.159 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:12: Placed locations in zone 17,0  duration 4.475 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:27: Placed locations in zone 18,-1  duration 4.77 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:28: Placed locations in zone 18,2  duration 88.274 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:28: Placed locations in zone 18,5  duration 1.246 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:28: Placed locations in zone 18,6  duration 8.002 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:28: Placed locations in zone 18,7  duration 12.381 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:47:41: Placed locations in zone 18,9  duration 1.173 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:48:00: Placed locations in zone 18,11  duration 0.187 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:49:34: Placed locations in zone 15,21  duration 0.845 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:49:35: Placed locations in zone 17,21  duration 3.433 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:49:52: Placed locations in zone 15,23  duration 7.768 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:01: Placed locations in zone 16,24  duration 1 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:10: Placed locations in zone 15,25  duration 1.785 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:11: Placed locations in zone 16,25  duration 2.994 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:11: Placed locations in zone 17,25  duration 72.758 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:20: Placed locations in zone 14,26  duration 64.32 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Dungeon load time 0.668 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Available rooms:18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: To place:40
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: placed 9 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Placed 31 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:21: Placed locations in zone 15,26  duration 83.307 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:30: Placed locations in zone 14,27  duration 1.132 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:50:31: Placed locations in zone 16,27  duration 5.304 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:04: Placed locations in zone 19,25  duration 2.484 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:12: Placed locations in zone 20,27  duration 2.312 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Dungeon load time 4.96 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Available rooms:18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: To place:40
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: All required rooms have been placed, stopping generation
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: cyclic detected , cool
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: cyclic detected , cool
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: placed 11 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Placed 35 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Placed locations in zone 21,25  duration 88.974 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Dungeon load time 0.584 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Available rooms:18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: To place:40
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: placed 6 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Placed 18 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:22: Placed locations in zone 21,26  duration 45.993 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:52:48: Placed locations in zone 24,26  duration 10.488 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:08: Placed locations in zone 22,25  duration 2.016 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:08: Placed locations in zone 23,25  duration 9.957 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Dungeon load time 0.939 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Available rooms:18
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: To place:40
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: placed 4 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Placed 25 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Placed locations in zone 26,25  duration 64.512 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:09: Placed locations in zone 26,29  duration 25.939 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:20: Placed locations in zone 27,25  duration 1.214 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:21: Placed locations in zone 27,27  duration 0.161 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:21: Placed locations in zone 27,28  duration 0.115 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:21: Placed locations in zone 27,29  duration 14.242 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Placed locations in zone 28,27  duration 41.354 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Dungeon load time 0.653 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Available rooms:10
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Placed 11 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:33: Force generaeting hmap (1792.0, 0.0, 1792.0)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:34: Placed locations in zone 28,28  duration 716.353 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:34: Placed locations in zone 28,29  duration 0.113 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:34: Placed locations in zone 28,31  duration 3.221 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:42: Placed locations in zone 29,25  duration 18.349 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:43: Placed locations in zone 29,29  duration 8.585 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:43: Placed locations in zone 29,31  duration 11.974 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:43: Placed locations in zone 29,32  duration 38.04 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:43: Placed locations in zone 29,33  duration 2.547 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:50: Placed locations in zone 30,27  duration 11.963 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Placed locations in zone 30,31  duration 0.162 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Placed locations in zone 30,32  duration 60.122 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Dungeon load time 0.676 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Available rooms:16
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: placed 0 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Placed 25 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:53:51: Placed locations in zone 30,33  duration 100.443 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:01: Placed locations in zone 30,35  duration 1.584 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,28  duration 0.116 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,29  duration 8.854 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,30  duration 20.387 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,32  duration 8.887 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,33  duration 2.209 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:21: Placed locations in zone 31,34  duration 0.361 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:23: Placed locations in zone 31,36  duration 3.916 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:51: Placed locations in zone 32,30  duration 17.19 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:54:51: Placed locations in zone 32,33  duration 0.322 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed locations in zone 33,28  duration 6.199 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Dungeon load time 1.228 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Available rooms:16
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: placed 0 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed 28 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed locations in zone 33,32  duration 76.184 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed locations in zone 33,33  duration 2.228 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Loading dungeon
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Dungeon loaded 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Dungeon load time 0.596 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Available rooms:16
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: To place:30
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Connections 4
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: placed 0 doors
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed 15 rooms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:31: Placed locations in zone 33,34  duration 65.448 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:55:32: Placed locations in zone 33,35  duration 16.398 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:56:09:  Connections 1 ZDOS:393842  sent:0 recv:244
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1356 unused Assets to reduce memory usage. Loaded Objects now: 1116725.
+Total: 922.253257 ms (FindLiveObjects: 111.295758 ms CreateObjectMapping: 35.160636 ms MarkObjects: 769.944968 ms  DeleteObjects: 5.846452 ms)
+
+02/21/2021 04:56:13: clone 953
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:56:15: Saved 393812 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:56:15: World saved ( 2022.468ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 04:59:50: Placed locations in zone 32,26  duration 4.449 ms
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+^C02/21/2021 05:00:04: Game - OnApplicationQuit
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:04: ZNet Shutdown
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:05: clone 1116
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Saved 394416 zdos
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: World saved ( 1795.558ms )
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Sending disconnect msg
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Sent to 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07: Closing socket 76561198018752214
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:07:   send queue size:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08:   P2P state, bytes in send queue:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: Last socket, unregistering callback
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: Disposing socket
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: Closing socket 0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: Last socket, unregistering callback
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:08: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7f0216fff700 -> priority: 1 
+02/21/2021 05:00:11: ZNet OnDestroy
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:11: Net scene destroyed
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+02/21/2021 05:00:11: Steam manager on destroy
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+

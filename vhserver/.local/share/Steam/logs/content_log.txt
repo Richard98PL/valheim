@@ -1,0 +1,280 @@
+
+
+[2021-02-11 13:21:26] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+[2021-02-11 13:21:32] Loaded 0 apps from install folder "/home/vhserver/serverfiles/steamapps\appmanifest_*.acf".
+[2021-02-11 13:21:33] AppID 896660 state changed : Update Required,
+[2021-02-11 13:21:33] AppID 896660 scheduler update : Priority First, timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2021-02-11 13:21:33] AppID 896660 state changed : Update Required,Update Queued,
+[2021-02-11 13:21:33] AppID 896660 scheduler update : Priority First, timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2021-02-11 13:21:33] AppID 896660 state changed : Update Required,Update Queued,Update Running,
+[2021-02-11 13:21:33] AppID 896660 update changed : Running,
+[2021-02-11 13:21:33] AppID 896660 update changed : Running,Reconfiguring,
+[2021-02-11 13:21:33] Download system icon for AppID 896660 to /home/vhserver/.steam/steamcmd/steam/games/c55a6b50b170ac6ed56cf90521273c30dccb5f12.ico
+[2021-02-11 13:21:33] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 14 / Launcher 3)
+[2021-02-11 13:21:33] Created download interface of type 'SteamCache' (7) to host cache18-ams1.steamcontent.com (cache18-ams1.steamcontent.com)
+[2021-02-11 13:21:33] Created download interface of type 'SteamCache' (7) to host cache6-par1.steamcontent.com (cache6-par1.steamcontent.com)
+[2021-02-11 13:21:33] Created download interface of type 'SteamCache' (7) to host cache8-par1.steamcontent.com (cache8-par1.steamcontent.com)
+[2021-02-11 13:21:33] Created ipv4-only http client
+[2021-02-11 13:21:33] HTTP (SteamCache,84) - cache18-ams1.steamcontent.com (155.133.248.29:80 / 155.133.248.29:80, host: cache18-ams1.steamcontent.com): cache18-ams1.steamcontent.com/depot/1006/manifest/6688153055340488873/5 - received 200 (OK) HTTP response
+[2021-02-11 13:21:34] HTTP (SteamCache,84) - cache18-ams1.steamcontent.com (155.133.248.29:80 / 155.133.248.29:80, host: cache18-ams1.steamcontent.com): cache18-ams1.steamcontent.com/depot/896661/manifest/8166402712528629744/5 - received 200 (OK) HTTP response
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,Validating,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,Preallocating,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,
+[2021-02-11 13:21:34] AppID 896660 update started : download 0/564717440, store 0/0, reuse 0/0, delta 0/0, stage 0/1045076385 
+[2021-02-11 13:21:34] AppID 896660 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,Downloading,
+[2021-02-11 13:21:34] AppID 896660 update changed : Running,Downloading,Staging,
+[2021-02-11 13:21:34] Downloading 58 chunks from depot 1006
+[2021-02-11 13:21:35] HTTP (SteamCache,84) - cache18-ams1.steamcontent.com (155.133.248.29:80 / 155.133.248.29:80, host: cache18-ams1.steamcontent.com): Received 500 (Internal Server Error) HTTP response for depot 1006
+[2021-02-11 13:21:35] HTTP (SteamCache,84) - cache18-ams1.steamcontent.com (155.133.248.29:80 / 155.133.248.29:80, host: cache18-ams1.steamcontent.com): Closing connection
+[2021-02-11 13:21:35] Created download interface of type 'SteamCache' (7) to host cache4-par1.steamcontent.com (cache4-par1.steamcontent.com)
+[2021-02-11 13:21:38] Downloading 1073 chunks from depot 896661
+[2021-02-11 13:21:46] Increasing target number of download connections to 4 (rate was 0.000, now 95.924)
+[2021-02-11 13:21:46] Created download interface of type 'SteamCache' (7) to host cache3-par1.steamcontent.com (cache3-par1.steamcontent.com)
+[2021-02-11 13:21:58] Increasing target number of download connections to 5 (rate was 95.924, now 196.659)
+[2021-02-11 13:21:58] Created download interface of type 'SteamCache' (7) to host cache7-par1.steamcontent.com (cache7-par1.steamcontent.com)
+[2021-02-11 13:22:46] AppID 896660 update changed : Running,
+[2021-02-11 13:22:46] AppID 896660 update changed : Running,Committing,
+[2021-02-11 13:22:46] AppID 896660 starting commit from "/home/vhserver/serverfiles/steamapps/downloading/896660" to "/home/vhserver/serverfiles" : 127 updated, 0 moved, 0 deleted files
+[2021-02-11 13:22:46] AppID 896660 state changed : Fully Installed,Update Queued,Update Running,
+[2021-02-11 13:22:46] AppID 896660 finished update, mounted depots (BuildID 6213901) : 1006 (6688153055340488873),896661 (8166402712528629744),
+[2021-02-11 13:22:46] AppID 896660 update changed : Running,
+[2021-02-11 13:22:46] AppID 896660 update changed : None
+[2021-02-11 13:22:46] AppID 896660 state changed : Fully Installed,Update Queued,
+[2021-02-11 13:22:46] AppID 896660 state changed : Fully Installed,
+[2021-02-11 13:22:46] AppID 896660 scheduler finished : removed from schedule
+[2021-02-11 13:22:46] HTTP (SteamCache,95) - cache7-par1.steamcontent.com (185.25.182.6:443 / 185.25.182.6:443, host: cache7-par1.steamcontent.com): Closing connection
+[2021-02-11 13:22:46] HTTP (SteamCache,107) - cache3-par1.steamcontent.com (185.25.182.4:443 / 185.25.182.4:443, host: cache3-par1.steamcontent.com): Closing connection
+[2021-02-11 13:22:46] HTTP (SteamCache,108) - cache4-par1.steamcontent.com (185.25.182.36:443 / 185.25.182.36:443, host: cache4-par1.steamcontent.com): Closing connection
+[2021-02-11 13:22:46] HTTP (SteamCache,96) - cache8-par1.steamcontent.com (185.25.182.38:443 / 185.25.182.38:443, host: cache8-par1.steamcontent.com): Closing connection
+[2021-02-11 13:22:46] HTTP (SteamCache,94) - cache6-par1.steamcontent.com (185.25.182.37:443 / 185.25.182.37:443, host: cache6-par1.steamcontent.com): Closing connection
+
+
+[2021-02-11 13:44:39] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-11 20:12:27] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-11 20:26:52] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-12 19:19:15] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 08:27:19] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 14:44:48] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 15:04:58] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 17:24:12] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 18:06:22] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 18:22:22] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 20:00:08] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-13 20:14:44] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 00:15:03] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 04:14:17] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 08:14:34] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 12:14:36] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 17:14:38] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-14 21:00:28] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 01:14:48] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 05:14:39] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 09:14:38] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 13:14:55] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 17:15:22] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-15 21:15:17] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 01:14:53] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 05:14:45] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 09:14:54] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 13:14:54] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 17:14:58] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-16 21:14:57] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 01:15:03] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 05:14:37] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 09:14:53] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 13:14:51] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 17:15:07] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 19:04:48] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 19:05:13] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+[2021-02-17 19:05:14] Loaded 1 apps from install folder "/home/vhserver/serverfiles/steamapps\appmanifest_*.acf".
+[2021-02-17 19:05:15] AppID 896660 state changed : Update Required,Fully Installed,
+[2021-02-17 19:05:15] AppID 896660 scheduler update : Priority First, timeSinceLastPlayed=1613585115, appDisableSecondsRemaining=0
+[2021-02-17 19:05:15] AppID 896660 state changed : Update Required,Fully Installed,Update Queued,
+[2021-02-17 19:05:15] AppID 896660 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2021-02-17 19:05:15] AppID 896660 update changed : Running,
+[2021-02-17 19:05:15] AppID 896660 update changed : Running,Reconfiguring,
+[2021-02-17 19:05:15] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 14 / Launcher 3)
+[2021-02-17 19:05:15] Created download interface of type 'SteamCache' (7) to host cache6-par1.steamcontent.com (cache6-par1.steamcontent.com)
+[2021-02-17 19:05:15] Created download interface of type 'SteamCache' (7) to host cache1-par1.steamcontent.com (cache1-par1.steamcontent.com)
+[2021-02-17 19:05:15] Created download interface of type 'SteamCache' (7) to host cache2-par1.steamcontent.com (cache2-par1.steamcontent.com)
+[2021-02-17 19:05:15] Created ipv4-only http client
+[2021-02-17 19:05:17] HTTP (SteamCache,94) - cache6-par1.steamcontent.com (185.25.182.37:443 / 185.25.182.37:443, host: cache6-par1.steamcontent.com): cache6-par1.steamcontent.com/depot/896661/manifest/521795651741005384/5 - received 200 (OK) HTTP response
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,Validating,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,Preallocating,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,
+[2021-02-17 19:05:21] AppID 896660 update started : download 0/3905456, store 0/0, reuse 0/230344676, delta 0/72113068, stage 0/336390975 
+[2021-02-17 19:05:21] AppID 896660 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,Downloading,
+[2021-02-17 19:05:21] AppID 896660 update changed : Running,Downloading,Staging,
+[2021-02-17 19:05:21] Downloading 105 chunks from depot 896661
+[2021-02-17 19:05:29] Increasing target number of download connections to 4 (rate was 0.000, now 3.265)
+[2021-02-17 19:05:29] Created download interface of type 'SteamCache' (7) to host cache3-par1.steamcontent.com (cache3-par1.steamcontent.com)
+[2021-02-17 19:05:34] AppID 896660 update changed : Running,
+[2021-02-17 19:05:34] AppID 896660 update changed : Running,Committing,
+[2021-02-17 19:05:34] AppID 896660 starting commit from "/home/vhserver/serverfiles/steamapps/downloading/896660" to "/home/vhserver/serverfiles" : 38 updated, 0 moved, 0 deleted files
+[2021-02-17 19:05:34] AppID 896660 state changed : Fully Installed,Update Queued,Update Running,
+[2021-02-17 19:05:34] AppID 896660 finished update, mounted depots (BuildID 6246034) : 1006 (6688153055340488873),896661 (521795651741005384),
+[2021-02-17 19:05:34] AppID 896660 update changed : Running,
+[2021-02-17 19:05:34] AppID 896660 update changed : None
+[2021-02-17 19:05:34] AppID 896660 state changed : Fully Installed,Update Queued,
+[2021-02-17 19:05:34] AppID 896660 state changed : Fully Installed,
+[2021-02-17 19:05:34] AppID 896660 scheduler finished : removed from schedule
+[2021-02-17 19:05:34] HTTP (SteamCache,107) - cache3-par1.steamcontent.com (185.25.182.4:443 / 185.25.182.4:443, host: cache3-par1.steamcontent.com): Closing connection
+[2021-02-17 19:05:34] HTTP (SteamCache,106) - cache2-par1.steamcontent.com (185.25.182.35:443 / 185.25.182.35:443, host: cache2-par1.steamcontent.com): Closing connection
+[2021-02-17 19:05:34] HTTP (SteamCache,105) - cache1-par1.steamcontent.com (185.25.182.3:443 / 185.25.182.3:443, host: cache1-par1.steamcontent.com): Closing connection
+[2021-02-17 19:05:34] HTTP (SteamCache,94) - cache6-par1.steamcontent.com (185.25.182.37:443 / 185.25.182.37:443, host: cache6-par1.steamcontent.com): Closing connection
+
+
+[2021-02-17 19:20:30] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-17 21:15:15] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 01:15:08] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 05:14:46] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 09:15:01] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 13:15:01] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 17:00:30] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-18 21:15:06] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 01:15:16] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 05:14:44] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 09:15:19] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 13:15:52] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 17:16:00] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-19 21:16:21] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 01:15:09] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 05:14:52] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 09:15:01] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 13:00:30] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 17:16:02] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-20 21:15:48] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 01:15:33] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 05:14:57] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 09:15:17] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 13:00:34] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 17:16:17] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".
+
+
+[2021-02-21 21:15:57] Loaded 0 apps from install folder "/home/vhserver/.local/share/Steam/steamapps\appmanifest_*.acf".

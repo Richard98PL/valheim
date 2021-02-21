@@ -1,0 +1,17 @@
+Redirecting stderr to '/home/vhserver/.local/share/Steam/logs/stderr.txt'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Connecting anonymously to Steam Public...Logged in OK
+Waiting for user info...OK
+ Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+ Update state (0x61) downloading, progress: 23.95 (80561440 / 336390975)
+ Update state (0x61) downloading, progress: 70.97 (238733284 / 336390975)
+ Update state (0x61) downloading, progress: 73.46 (247121892 / 336390975)
+ Update state (0x61) downloading, progress: 78.45 (263899108 / 336390975)
+ Update state (0x61) downloading, progress: 86.87 (292210660 / 336390975)
+ Update state (0x61) downloading, progress: 98.75 (332196671 / 336390975)
+Success! App '896660' fully installed.

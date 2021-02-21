@@ -1,0 +1,41 @@
+Feb 17 17:00:13.753 vhserver: START: PASS: Started THEVIKINGBOYZ
+Feb 17 17:00:13.822 vhserver: MODS-INSTALL: INFO: LinuxGSM version: v21.1.3
+Feb 17 17:00:13.830 vhserver: MODS-INSTALL: PASS: core_exit.sh exiting with code: 0
+Feb 17 19:04:13.152 vhserver: CORE: PASS: Display commands
+Feb 17 19:04:13.171 vhserver: CORE: INFO: LinuxGSM version: v21.1.3
+Feb 17 19:04:13.174 vhserver: CORE: PASS: core_exit.sh exiting with code: 0
+Feb 17 19:04:23.899 vhserver: CORE: PASS: Downloading command_update.sh
+Feb 17 19:04:24.640 vhserver: UPDATE: INFO: Using anonymous Steam login
+Feb 17 19:04:25.788 vhserver: UPDATE: PASS: Downloading check_last_update.sh
+Feb 17 19:04:26.937 vhserver: UPDATE: PASS: Downloading update_steamcmd.sh
+Feb 17 19:04:28.824 vhserver: UPDATE: PASS: Checking local build
+Feb 17 19:04:56.187 vhserver: UPDATE: PASS: Checking remote build
+Feb 17 19:04:57.199 vhserver: UPDATE: INFO: Update available
+Feb 17 19:04:57.204 vhserver: UPDATE: INFO: Local build: 6213901
+Feb 17 19:04:57.208 vhserver: UPDATE: INFO: Remote build: 6246034
+Feb 17 19:04:57.211 vhserver: UPDATE: INFO: Branch: public
+Feb 17 19:04:57.216 vhserver: UPDATE: INFO: 6213901 > 6246034
+Feb 17 19:04:57.742 vhserver: UPDATE: WARN: vhserver will be restarted
+Feb 17 19:05:06.210 vhserver: STOP: INFO: Graceful: CTRL+c
+Feb 17 19:05:11.880 vhserver: STOP: PASS: Graceful: CTRL+c: OK: 4 seconds
+Feb 17 19:05:12.407 vhserver: UPDATE: INFO: Updating vhserver: SteamCMD
+Feb 17 19:05:12.410 vhserver: UPDATE: INFO: Branch: public
+Redirecting stderr to '/home/vhserver/.local/share/Steam/logs/stderr.txt'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Connecting anonymously to Steam Public...Logged in OK
+Waiting for user info...OK
+ Update state (0x3) reconfiguring, progress: 0.00 (0 / 0)
+ Update state (0x61) downloading, progress: 23.95 (80561440 / 336390975)
+ Update state (0x61) downloading, progress: 70.97 (238733284 / 336390975)
+ Update state (0x61) downloading, progress: 73.46 (247121892 / 336390975)
+ Update state (0x61) downloading, progress: 78.45 (263899108 / 336390975)
+ Update state (0x61) downloading, progress: 86.87 (292210660 / 336390975)
+ Update state (0x61) downloading, progress: 98.75 (332196671 / 336390975)
+Success! App '896660' fully installed.
+Feb 17 19:05:35.149 vhserver: UPDATE: PASS: Updating vhserver: SteamCMD
+Feb 17 19:05:36.665 vhserver: START: INFO: Rotating log files

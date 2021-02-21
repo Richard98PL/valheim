@@ -1,0 +1,109 @@
+
+
+[2021-02-11 13:21:26] Log session started
+[2021-02-11 13:21:26] [0,0] SetSteamID( [U:1:0] )
+[2021-02-11 13:21:26] [0,0] SetSteamID( [a:1:0] )
+[2021-02-11 13:21:26] [0,0] SetSteamID( [a:1:0] )
+[2021-02-11 13:21:26] [0,0] Server says 0% of connections should be websockets, we rolled 10 - using UDP as default.
+[2021-02-11 13:21:26] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'steamcmd'. . .
+[2021-02-11 13:21:26] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:a:101::b919:b626]:80 ([2a01:bc80:a:101::b919:b626]:80)) - TIMEOUT
+[2021-02-11 13:21:27] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:443) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm1-lhr1.cm.steampowered.com:27028) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27033) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27030) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:443) results: 50.2326ms + load 45.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27035) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27030) results: 50.0913ms + load 44.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm2-lhr1.cm.steampowered.com:27028) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm1-lhr1.cm.steampowered.com:27028) results: 50.0743ms + load 46.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27035) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27033) results: 50.9351ms + load 44.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27037) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27035) results: 39.4431ms + load 45.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:443) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm2-lhr1.cm.steampowered.com:27028) results: 39.4155ms + load 46.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm1-lhr1.cm.steampowered.com:27038) starting...
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27035) results: 49.8425ms + load 46.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm3-lhr1.cm.steampowered.com:27035)
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27037) results: 49.3643ms + load 44.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm1-lhr1.cm.steampowered.com:27038) results: 48.4737ms + load 47.0000
+[2021-02-11 13:21:27] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:443) results: 47.8311ms + load 46.0000
+[2021-02-11 13:21:27] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm3-lhr1.cm.steampowered.com:27035, WebSocket)
+[2021-02-11 13:21:27] [1,3] ConnectionCompleted() (162.254.196.68:27035, WebSocket)
+[2021-02-11 13:21:28] [1,3] RecvMsgClientLogOnResponse() : [a:1:2147759167] 'OK'
+[2021-02-11 13:21:28] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2a01:bc80:8:103::9b85:fc15) - TIMEOUT
+[2021-02-11 13:22:46] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1613049766 seconds ago)
+[2021-02-11 13:22:46] [3,3] LogOff()
+[2021-02-11 13:22:46] [2,3] AsyncDisconnect()
+[2021-02-11 13:22:46] [2,3] Log session ended
+
+
+[2021-02-17 19:04:48] Log session started
+[2021-02-17 19:04:48] [0,0] SetSteamID( [U:1:0] )
+[2021-02-17 19:04:48] [0,0] SetSteamID( [a:1:0] )
+[2021-02-17 19:04:48] [0,0] SetSteamID( [a:1:0] )
+[2021-02-17 19:04:48] [0,0] Server says 50% of connections should be websockets, we rolled 4 - using WebSockets as default.
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27031) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27039) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27039) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm3-ams1.cm.steampowered.com:443) starting...
+[2021-02-17 19:04:48] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:4:100::a2fe:c412]:80 ([2a01:bc80:4:100::a2fe:c412]:80)) - TIMEOUT
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27039) results: 47.0559ms + load 62.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm3-ams1.cm.steampowered.com:443) results: 46.8174ms + load 62.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm2-ams1.cm.steampowered.com:27023) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27024) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27031) results: 49.3963ms + load 67.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27039) results: 49.4731ms + load 71.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm1-ams1.cm.steampowered.com:27025) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27029) starting...
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm2-ams1.cm.steampowered.com:27023) results: 44.8166ms + load 64.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27024) results: 35.7735ms + load 68.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-par1.cm.steampowered.com:27024)
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27029) results: 49.0174ms + load 63.0000
+[2021-02-17 19:04:48] [0,0] PingWebSocketCM() (cm1-ams1.cm.steampowered.com:27025) results: 49.0401ms + load 63.0000
+[2021-02-17 19:04:48] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm2-par1.cm.steampowered.com:27024, WebSocket)
+[2021-02-17 19:04:48] [1,3] ConnectionCompleted() (185.25.182.77:27024, WebSocket)
+[2021-02-17 19:04:49] [1,3] RecvMsgClientLogOnResponse() : [a:1:2310521067] 'OK'
+[2021-02-17 19:04:50] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2a01:bc80:1:103::a2fe:c611) - TIMEOUT
+[2021-02-17 19:04:54] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1613585094 seconds ago)
+[2021-02-17 19:04:54] [3,3] LogOff()
+[2021-02-17 19:04:54] [2,3] AsyncDisconnect()
+[2021-02-17 19:04:54] [2,3] Log session ended
+
+
+[2021-02-17 19:05:13] Log session started
+[2021-02-17 19:05:13] [0,0] SetSteamID( [U:1:0] )
+[2021-02-17 19:05:13] [0,0] SetSteamID( [a:1:0] )
+[2021-02-17 19:05:13] [0,0] SetSteamID( [a:1:0] )
+[2021-02-17 19:05:13] [0,0] Server says 50% of connections should be websockets, we rolled 35 - using WebSockets as default.
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27031) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27039) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27039) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm3-ams1.cm.steampowered.com:443) starting...
+[2021-02-17 19:05:13] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:4:101::a2fe:c42e]:80 ([2a01:bc80:4:101::a2fe:c42e]:80)) - TIMEOUT
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27039) results: 49.8439ms + load 64.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm2-ams1.cm.steampowered.com:27023) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm3-ams1.cm.steampowered.com:443) results: 49.8076ms + load 64.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27024) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm4-lhr1.cm.steampowered.com:27031) results: 49.7069ms + load 65.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm1-ams1.cm.steampowered.com:27025) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm3-lhr1.cm.steampowered.com:27039) results: 49.8184ms + load 66.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27029) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm2-ams1.cm.steampowered.com:27023) results: 39.8060ms + load 66.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm6-ams1.cm.steampowered.com:27035) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm2-par1.cm.steampowered.com:27024) results: 40.0750ms + load 65.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm6-ams1.cm.steampowered.com:27030) starting...
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm5-ams1.cm.steampowered.com:27029) results: 49.4098ms + load 62.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-par1.cm.steampowered.com:27024)
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm1-ams1.cm.steampowered.com:27025) results: 50.1265ms + load 63.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm6-ams1.cm.steampowered.com:27030) results: 48.8257ms + load 66.0000
+[2021-02-17 19:05:13] [0,0] PingWebSocketCM() (cm6-ams1.cm.steampowered.com:27035) results: 49.5272ms + load 64.0000
+[2021-02-17 19:05:13] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm2-par1.cm.steampowered.com:27024, WebSocket)
+[2021-02-17 19:05:13] [1,3] ConnectionCompleted() (185.25.182.77:27024, WebSocket)
+[2021-02-17 19:05:14] [1,3] RecvMsgClientLogOnResponse() : [a:1:336794882] 'OK'
+[2021-02-17 19:05:15] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2a01:bc80:7:100::9b85:f811) - TIMEOUT
+[2021-02-17 19:05:34] [3,3] ResetVoiceRecording() (was recording: 0) (last get voice time: 1613585134 seconds ago)
+[2021-02-17 19:05:34] [3,3] LogOff()
+[2021-02-17 19:05:34] [2,3] AsyncDisconnect()
+[2021-02-17 19:05:34] [2,3] Log session ended

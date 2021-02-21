@@ -1,0 +1,107 @@
+
+Summary
+=================================
+Message
+Valheim received update
+
+Game
+Valheim
+
+Server name
+THEVIKINGBOYZ
+
+Hostname
+vps-78657416
+
+Server IP
+0.0.0.0:2456
+
+Distro Details
+=================================
+Distro:    Debian GNU/Linux 9 (stretch)
+Arch:      x86_64
+Kernel:    4.9.0-14-amd64
+Hostname:  vps-78657416
+Uptime:    4d, 0h, 57m
+tmux:      tmux 2.3
+glibc:     2.24
+
+Server Resource
+=================================
+CPU         
+Model:      Intel Core Processor (Haswell, no TSX)
+Cores:      1
+Frequency:  2394.456MHz
+Avg Load:   0.90, 1.04, 0.99
+
+Memory     
+Mem:       total  used  free   cached  available
+Physical:  3.8GB  85MB  3.5GB  1.3GB   3.5GB
+Swap:      0B     0B    0B
+
+Storage
+Filesystem:  /dev/sda1
+Total:       40G
+Used:        2.5G
+Available:   36G
+
+Network
+IP:           0.0.0.0
+Internet IP:  51.83.186.201
+
+Game Server Resource Usage
+=================================
+CPU Used:  120%
+Mem Used:  1.5%  58MB
+
+Storage
+Total:        1.4G
+Serverfiles:  998M
+
+Valheim Server Details
+=================================
+Server name:      THEVIKINGBOYZ
+App ID:           896660
+Branch:           public
+Server IP:        0.0.0.0:2456
+Internet IP:      51.83.186.201:2456
+Server password:  ********
+Game world:       abc123
+Status:           ONLINE
+
+
+vhserver Logs
+=================================
+
+Script log
+===================
+/home/vhserver/log/script/vhserver-script.log
+Feb 17 19:05:37.773 vhserver: START: PASS: Started THEVIKINGBOYZ
+Feb 17 19:05:37.841 vhserver: UPDATE: INFO: Sending alert: Updated
+
+
+Console log
+====================
+/home/vhserver/log/console/vhserver-console.log
+
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+[Subsystems] Discovering subsystems at path /home/vhserver/serverfiles/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.085 seconds
+UnloadTime: 1.252142 ms
+02/17/2021 19:05:36: Starting to load scene:start
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+
+Server log
+===================
+/home/vhserver/serverfiles/Saved/Logs (NO LOG FILES)
+

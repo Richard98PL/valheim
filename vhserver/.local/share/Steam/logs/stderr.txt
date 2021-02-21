@@ -1,0 +1,2 @@
+CApplicationManagerPopulateThread took 0 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+CAppInfoCacheReadFromDiskThread took 140 milliseconds to initialize

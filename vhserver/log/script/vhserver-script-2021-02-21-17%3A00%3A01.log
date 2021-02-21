@@ -1,0 +1,13 @@
+Feb 21 13:00:19.446 vhserver: START: PASS: Started THEVIKINGBOYZ
+Feb 21 13:00:19.477 vhserver: MODS-INSTALL: INFO: LinuxGSM version: v21.1.3
+Feb 21 13:00:19.482 vhserver: MODS-INSTALL: PASS: core_exit.sh exiting with code: 0
+Feb 21 17:00:05.019 vhserver: STOP: INFO: Graceful: CTRL+c
+Feb 21 17:00:15.292 vhserver: STOP: PASS: Graceful: CTRL+c: OK: 7 seconds
+Feb 21 17:00:16.075 vhserver: START: INFO: Using anonymous Steam login
+Feb 21 17:00:17.799 vhserver: START: INFO: Removing logs older than 7 days
+/home/vhserver/log/script/vhserver-script-2021-02-13-14:50:19.log
+/home/vhserver/log/script/vhserver-script-2021-02-13-14:30:17.log
+/home/vhserver/log/console/vhserver-console-2021-02-13-14:30:17.log
+/home/vhserver/log/console/vhserver-console-2021-02-13-14:50:19.log
+Feb 21 17:00:18.331 vhserver: START: Removed 4 log files
+Feb 21 17:00:18.837 vhserver: START: INFO: Rotating log files
